@@ -19,7 +19,7 @@ Yields:
 <pre class="console">
 h1 {
   margin: 3px 0 5px 10px;
-  margin: 0.188em 0 0.313em 0.625em;
+  margin: 0.1875rem 0 0.3125rem 0.625rem;
   padding: 0.313em 0.188em;
 }
 </pre>
