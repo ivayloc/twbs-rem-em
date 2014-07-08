@@ -1,9 +1,9 @@
 Bootstrap rewritten with em and rem units
 ===========
 
-This is Bootstrap v3.2.0 and has been rewritten to support rem and em units. I have use David Ensinger's mixin for px to rem conversion and for px to em conversion is used Tobias Sjösten's @mixin.
+This is Bootstrap v3.2.0 and has been rewritten to support rem and em units. I have use [David Ensinger][DavidEnsinger]'s mixin for px to rem conversion and for px to em conversion is used [Tobias Sjösten][TobiasSjösten]'s function.
 
-There is no need to do any calculation to have responsive mobilefirst webside written with em and rem units, you can accomplish this with the two build in @mixins `rem(property, values)` and `em(values)`.
+There is no need to do any calculation to have responsive mobilefirst webside written with em and rem units, you can accomplish this with a @mixins `rem(property, values)` and with this function @mixin `em(values)`.
 
 Example:
 
@@ -24,3 +24,7 @@ h1 {
 }
 </pre>
 
+Credits
+-------
+[DavidEnsinger]: http://davidensinger.com/2013/03/using-rems-with-sass/
+[TobiasSjösten]: http://vvv.tobiassjosten.net/css/px-to-em-with-sass/
