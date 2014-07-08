@@ -24,7 +24,6 @@ h1 {
 }
 </pre>
 
-Credits
--------
+
 [DavidEnsinger]: http://davidensinger.com/2013/03/using-rems-with-sass/
 [TobiasSjösten]: http://vvv.tobiassjosten.net/css/px-to-em-with-sass/
