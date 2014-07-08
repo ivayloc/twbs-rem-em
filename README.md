@@ -5,7 +5,7 @@ This is Bootstrap v3.2.0 and has been rewritten to support rem and em units. I h
 
 There is no need to do any calculation to have responsive mobilefirst webside written with em and rem units, you can accomplish this with a @mixins `rem(property, values)` and with this function `em(values)`.
 
-Example:
+<b>Example:</b>
 
 <pre class="console">
 h1 { 
@@ -14,7 +14,7 @@ h1 {
 }
 </pre>
 
-Yields:
+<b>Yields:</b>
 
 <pre class="console">
 h1 {
