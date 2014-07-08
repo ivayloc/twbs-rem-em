@@ -7,16 +7,16 @@ There is no need to do any calculation to have responsive mobilefirst webside wr
 
 Example:
 
-h1 { 
+'h1 { 
   @include rem(magrin, 3px 0 5px 10px);
   padding: em(5px) em(3px)
-}
+}'
 
 Yields:
 
-h1 {
+'h1 {
   margin: 3px 0 5px 10px;
   margin: 0.188em 0 0.313em 0.625em;
   padding: 0.313em 0.188em;
-}
+}'
 
