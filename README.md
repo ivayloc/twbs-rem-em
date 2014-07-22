@@ -9,7 +9,7 @@ There is no need to do any calculation to have responsive mobilefirst webside wr
 
 <pre class="console">
 h1 { 
-  @include rem(magrin, 3px 0 5px 10px);
+  @include rem(margin, 3px 0 5px 10px);
   padding: em(5px) em(3px)
 }
 </pre>
